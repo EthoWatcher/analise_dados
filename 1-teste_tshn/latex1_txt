@@ -1,0 +1,10 @@
+\begin{tabular}{llll}
+\toprule
+{} &   Diferença entre os grupos & Resultado do teste Levene & Resultado do teste T \\
+\midrule
+0 &  Machos controle e tratados &                     0.735 &               0.3996 \\
+1 &  Fêmeas controle e tratadas &                    0.1282 &               0.5121 \\
+2 &    Machos e fêmeas controle &                    0.7784 &               0.4902 \\
+3 &    Machos e fêmeas tratados &                    0.3606 &               0.4597 \\
+\bottomrule
+\end{tabular}

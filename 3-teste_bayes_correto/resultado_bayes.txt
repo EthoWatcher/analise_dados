@@ -1,0 +1,10 @@
+\begin{tabular}{lll}
+\toprule
+{} &           Tratamento & Intervalo de credibilidade \\
+\midrule
+0 &  Macho 2,5 mg/kg FLX &              0.183 - 0.285 \\
+1 &       Macho controle &              0.235 - 0.342 \\
+2 &  Fêmea 2,5 mg/kg FLX &              0.246 - 0.352 \\
+3 &       Fêmea controle &              0.202 - 0.304 \\
+\bottomrule
+\end{tabular}
